@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+
+tuanjie/Library/
+tuanjie/Temp/
+tuanjie/Logs/
+tuanjie/obj/
+tuanjie/Build/
+tuanjie/Builds/
+tuanjie/UserSettings/
+tuanjie/.vs/
+tuanjie/*.csproj
+tuanjie/*.sln
+
+*.log
+*.tmp
